@@ -1,5 +1,12 @@
-# Node modules
-node_modules/
+
+.ipynb_checkpoints/
+
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
 
 # Logs
 logs/
